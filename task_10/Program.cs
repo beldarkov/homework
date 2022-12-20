@@ -1,14 +1,17 @@
 ﻿Console.WriteLine("Введите трёхзначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
-bool flag = false;
-if (num < 100 || num >= 1000)
+while (true)
 {
-    Console.WriteLine("Введено не трёхзначное число!");
-    flag = true;
+    if (num < 100 || num >= 1000)
+    {
+        Console.WriteLine("Введено не трёхзначное число!");
+        Console.WriteLine("Введите трёхзначное число: ");
+        num = Convert.ToInt32(Console.ReadLine());
+    }
+    else
+    {
+        break;
+    }
 }
-if (flag == false)
-{
-    int res = (num / 10) % 10;
-    Console.WriteLine($"{num} -> {res}");
-}
-
+int res = (num / 10) % 10;
+Console.WriteLine($"{num} -> {res}");
