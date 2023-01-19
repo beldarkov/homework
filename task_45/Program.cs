@@ -6,5 +6,6 @@ int[] arr2 = new int[arr1.Length];
 for(int i = 0 ; i < arr2.Length; i++) {
     arr2[i] = arr1[i]; 
 }
+
 System.Console.WriteLine(string.Join(", ", arr1));
 System.Console.WriteLine(string.Join(", ", arr2));
