@@ -15,8 +15,10 @@ int FindSumOfNumber(int num) {
     }
     return res; 
 }
+
 void Print(int result) {
     Console.WriteLine(result); 
 }
 
 Print(FindSumOfNumber(A)); 
+
