@@ -11,6 +11,6 @@ double b1 = 2;
 double b2 = 4;
 double k1 = 5;
 double k2 = 9;
-double x = (1 * b2 - 1 * b1) / (k1 * 1 - k2 * 1); 
-double y = (k1 * b2 - k2 * b1) / (k1 * 1 - k2 * 1); 
+double x = (b2 - b1) / (k1 - k2); 
+double y = k1 * x + b1; 
 System.Console.WriteLine($"b1 = {b1}, k1 = {k1}, b2 = {b2}, k2 = {k2} -> ({x}; {y})");
