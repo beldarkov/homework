@@ -15,12 +15,13 @@ void PrintArray(int[,] arr, int m, int n) {
     }
 }
 
-int[] FindAverage(int[,] matr, int m, int n) {
-    int[] avg = new int[m]; 
+double[] FindAverage(int[,] matr, int m, int n) {
+    double[] avg = new double[m]; 
     for(int i = 0; i < n; i++) {
         for(int j = 0; j < m; j++) {
-            avg[i] += matr[j, i] / m; 
+            avg[i] += matr[j, i]; 
         }
+        avg[i] /= m;
     }
     return avg;
 }
@@ -33,5 +34,5 @@ FillArray(arr, m, n);
 PrintArray(arr, m, n);
 System.Console.WriteLine();
 
-int[] res = FindAverage(arr, m, n);
+double[] res = FindAverage(arr, m, n);
 System.Console.WriteLine(string.Join(" ", res));
