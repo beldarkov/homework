@@ -1,0 +1,15 @@
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.csproj.AssemblyReference.cache
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.AssemblyInfoInputs.cache
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.AssemblyInfo.cs
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.csproj.CoreCompileInputs.cache
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\bin\Debug\net6.0\task_60.exe
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\bin\Debug\net6.0\task_60.deps.json
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\bin\Debug\net6.0\task_60.runtimeconfig.json
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\bin\Debug\net6.0\task_60.dll
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\bin\Debug\net6.0\task_60.pdb
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.dll
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\refint\task_60.dll
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.pdb
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\task_60.genruntimeconfig.cache
+C:\Users\Tech-NN-4\Desktop\gb\homework_new\task_60\obj\Debug\net6.0\ref\task_60.dll
